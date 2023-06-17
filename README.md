@@ -2,7 +2,7 @@
 
 This repository is a collection of basic C programs designed to help beginners learn and practice the fundamentals of the C programming language. Whether you are a student, a self-taught programmer, or someone looking to refresh their C skills, this repository provides a solid foundation for understanding and implementing basic concepts.
 
-`This repositary had been started recently so the below said include the codes that will be added soon
+`This repositary had been started recently so the below said contents include the codes that will be added soon`
 
 ## Features
 
